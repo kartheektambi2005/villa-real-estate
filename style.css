@@ -144,7 +144,7 @@ a {
    PAGE BANNER
    ============================================= */
 .page-banner {
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('Aseets/property-03.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('Aseets/banner-02.jpg') center/cover no-repeat;
   padding: 80px 0;
   text-align: center;
   color: #fff;
@@ -176,7 +176,7 @@ a {
 .hero-section {
   position: relative;
   min-height: 600px;
-  background: url('https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1400') center/cover no-repeat;
+  background: url('Aseets/banner-01.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
 }
@@ -355,7 +355,7 @@ a {
 .closer-view-section {
   position: relative;
   min-height: 400px;
-  background: url('https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?w=1400') center/cover no-repeat;
+  background: url('Aseets/video-frame.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -729,7 +729,7 @@ a {
    ============================================= */
 .contact-section {
   padding: 80px 0;
-  background: url('https://images.unsplash.com/photo-1560185007-c5ca9d2c014d?w=1400') center/cover no-repeat;
+  background: url('Aseets/banner-02.jpg') center/cover no-repeat;
   position: relative;
 }
 
